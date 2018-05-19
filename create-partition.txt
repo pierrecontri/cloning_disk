@@ -1,0 +1,57 @@
+
+Microsoft DiskPart version 10.0.14393.0
+
+Copyright (C) 1999-2013 Microsoft Corporation.
+Sur l'ordinateur : OTTER
+
+Le disque 2 est maintenant le disque s‚lectionn‚.
+
+DiskPart a r‚ussi … nettoyer le disque.
+
+DiskPart a correctement converti le disque s‚lectionn‚ au format GPT.
+
+DiskPart a r‚ussi … cr‚er la partition sp‚cifi‚e.
+
+    0 pour cent effectu‚s    0 pour cent effectu‚s  100 pour cent effectu‚s
+
+DiskPart a format‚ le volume.
+
+DiskPart a correctement assign‚ la lettre de lecteur ou le point de montage.
+
+DiskPart a d‚fini l'ID de partition.
+
+DiskPart a assign‚ avec succŠs les attributs … la partition GPT s‚lectionn‚e.
+
+DiskPart a r‚ussi … cr‚er la partition sp‚cifi‚e.
+
+    0 pour cent effectu‚s    0 pour cent effectu‚s  100 pour cent effectu‚s
+
+DiskPart a format‚ le volume.
+
+DiskPart a correctement assign‚ la lettre de lecteur ou le point de montage.
+
+DiskPart a r‚ussi … cr‚er la partition sp‚cifi‚e.
+
+DiskPart a r‚ussi … cr‚er la partition sp‚cifi‚e.
+
+DiskPart a r‚duit la taille du volume de :   14 G octets
+
+    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s    0 pour cent effectu‚s  100 pour cent effectu‚s
+
+DiskPart a format‚ le volume.
+
+DiskPart a correctement assign‚ la lettre de lecteur ou le point de montage.
+
+  Nø volume   Ltr  Nom          Fs     Type        Taille   Statut     Info
+  ----------  ---  -----------  -----  ----------  -------  ---------  --------
+  Volume 0     D   Data         NTFS   Partition    223 G   Sain               
+  Volume 1     C                NTFS   Partition    110 G   Sain       D‚marrag
+  Volume 2         R‚cup‚ratio  NTFS   Partition    300 M   Sain       Masqu‚  
+  Volume 3                      FAT32  Partition    100 M   Sain       SystŠme 
+  Volume 4                      NTFS   Partition    450 M   Sain       Masqu‚  
+  Volume 5     E   Img_Win10    NTFS   Amovible      28 G   Sain               
+* Volume 6     W   Windows      NTFS   Partition     63 G   Sain               
+  Volume 7     T   Windows RE   NTFS   Partition    300 M   Sain       Masqu‚  
+  Volume 8     S   SYSTEM       FAT32  Partition    100 M   Sain       Masqu‚  
+
+Quitte DiskPart...

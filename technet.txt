@@ -1,0 +1,3 @@
+https://technet.microsoft.com/en-us/library/hh825686.aspx#ConfiguringPartitionsUsingDiskPart
+https://technet.microsoft.com/en-us/library/hh825089.aspx
+https://technet.microsoft.com/en-us/library/hh825041.aspx
